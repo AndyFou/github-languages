@@ -1,4 +1,4 @@
-id,username,location,followers,public_repos
+id,username,location,followers,public_repos,languages
 1;mojombo;San Francisco, CA;19360;60;{'Shell': 28247, 'CSS': 40689, 'Groff': 1013, 'HTML': 67924, 'JavaScript': 2385192, 'CoffeeScript': 2592, 'Emacs Lisp': 4389, 'Erlang': 964166, 'Java': 3585, 'Makefile': 19276, 'Ruby': 911663, 'C++': 3138129, 'Python': 62005, 'Perl': 1552, 'C': 119069}
 2;defunkt;San Francisco, CA;15464;107;{'PHP': 2333, 'Shell': 56563, 'CSS': 1596, 'Groff': 5648, 'HTML': 4055, 'JavaScript': 328598, 'CoffeeScript': 16639, 'Io': 2301, 'ooc': 841, 'Objective-C': 1982, 'Emacs Lisp': 855781, 'Makefile': 12289, 'Ruby': 1163207, 'Python': 253067, 'Ragel in Ruby Host': 30504, 'Perl': 33001, 'C': 107069}
 3;pjhyett;San Francisco, CA;8178;8;{'Ruby': 53587, 'JavaScript': 26152}
