@@ -1,0 +1,27 @@
+id,username,location,followers,public_repos
+1,b'Tom Preston-Werner',b'San Francisco',19354,60
+2,b'Chris Wanstrath',b'San Francisco',15460,107
+3,b'PJ Hyett',b'San Francisco',8178,8
+4,b'Yehuda Katz',b'San Francisco',7395,191
+17,b'Chris Van Pelt',b'San Francisco',55,33
+27,b'Jesse Andrews',b'San Francisco, CA',126,83
+29,b'Lukas Biewald',b'San Francisco',11,2
+31,b'Tom ten Thij',b'Amsterdam',23,64
+36,b'Dave Fayram',b'San Francisco, CA',291,67
+53,b'Kenzi Connor',b'San Francisco, CA',54,25
+68,b'Britt Selvitelle',b'San Fransico, CA',92,7
+70,b'Scott Chacon',b'San Francisco, CA',10984,183
+75,b'Abhay Kumar',b'San Francisco, CA',41,31
+78,b'Andr Arko',b'San Francisco',601,132
+79,b'Jamie van Dyke',b'Skipton, UK',31,87
+81,b'Engine Yard, Inc.',b'San Francisco, CA',0,260
+87,b'Tom Mornini',b'San Francisco',30,12
+89,b'Randall Thomas',b'San Francisco, CA, USA',38,1
+93,b'Ian Ownbey',b'San Francisco, CA',43,34
+101,b'Jayson Vantuyl',b'San Francisco, California, USA',27,36
+102,b'Brian Smith',b'Santa Monica,CA',69,109
+104,b'Daniel Neighman',b'San Francisco',254,129
+111,b'Hampton Catlin',b'San Francisco, CA',444,58
+113,b'Matt Aimonetti',b'Santa Monica, CA',744,233
+117,b'Glenn Rempe',b'San Francisco, CA',37,19
+118,b'Peter Cooper',b'Cambridge, UK',564,33

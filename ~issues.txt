@@ -159,7 +159,7 @@ PROBLEMATIC IDS
 521186 - 544596	[6001-6029]
 
 PROBLEMATIC LOCATIONS
-mxico, so paolo/paulo, zrich, montral
+mxico, so paolo/paulo, zrich, montral, malm, florianpolis,dsseldorf
 
 REPLACE FINAL ;
 ;+$
