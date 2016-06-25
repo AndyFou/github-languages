@@ -7,10 +7,11 @@ import itertools
 # Read data from file and create data for gephi
 
 # FUNCTIONS
+#
 # get_items: read data from file, create nodes (Languages) and edges (pairs of languages)
 #			returns: nodes,edges	type: tuple		[nodes/edges type: dictionary (key: language/pair tuple, value: bytes/counter)]
 #
-# Lesser Functions
+# Secondary Functions
 # read_datafile: read data from file and create variable Data to keep them
 #			returns: data	type: list
 # create_gexf: create gexf file with nodes and edges
