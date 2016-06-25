@@ -71,7 +71,8 @@ def create_country_file():
 
 	write_file.close()
 
-#### ACTIONS
+	
+# ACTIONS
 
 collect_data()
 #create_country_file()
