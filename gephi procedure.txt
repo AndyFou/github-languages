@@ -1,6 +1,0 @@
-Layout --> OpenOrd - 100 --> Noverlap
-
-Filters 
-* Range (bytes) (για να βγουν τα πολυ μικρά)
-* Edge Weight (ίσως)
-
