@@ -1,0 +1,13 @@
+Purple: web-based
+Orange: desktop-based
+Green: (data science oriented)
+
+Modularity Report
+Parameters:
+	Randomize: On
+	Use edge weights: On
+	Resolution: 1.0
+Results:
+	Modularity: 0,098
+	Modularity with resolution: 0,098
+	Number of Communities: 3

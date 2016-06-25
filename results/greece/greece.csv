@@ -1,0 +1,104 @@
+id;username;location;followers;public_repos;languages
+804;apod;Athens, Greece;9;21;{'VimL': 80972, 'Ruby': 1366, 'Clojure': 21840, 'Shell': 7786, 'Emacs Lisp': 67054}
+1493;bandito;Athens, Greece;37;14;{'Ruby': 28000}
+1865;ctrochalakis;Athens, Greece;58;46;{'Emacs Lisp': 976308, 'HTML': 8182, 'Ruby': 9947, 'JavaScript': 55056, 'Python': 226785, 'C': 4537}
+2536;nikosd;Athens, Greece;41;29;{'PHP': 39462, 'Shell': 784, 'Java': 12137, 'Ruby': 27921, 'JavaScript': 19468, 'CoffeeScript': 229}
+454617;anglen;Athens;2;0;{}
+456061;dtheodorakis;Athens - Greece;5;5;{'Ruby': 2645}
+456717;renjinsk;Thessaloniki - Greece;1;0;{}
+457547;davidoster;Athens - Greece;5;82;{'ActionScript': 15982, 'PHP': 1949619, 'JavaScript': 1581821}
+457635;docie;Athens;0;0;{}
+457955;billtrik;Greece;14;14;{'C': 23890, 'VimL': 248790, 'Ruby': 61356, 'HTML': 11773, 'CSS': 197960, 'Shell': 2412, 'CoffeeScript': 79399, 'JavaScript': 114499, 'Makefile': 5487}
+458813;thanpolas;Thessaloniki - Greece;140;163;{'Shell': 65261, 'C++': 425495, 'Java': 6083, 'Lua': 13768, 'CoffeeScript': 3758, 'Scheme': 10604, 'CSS': 263827, 'Perl': 323104, 'Ruby': 10752, 'HTML': 109934, 'Python': 5005313, 'JavaScript': 4747033}
+459173;djapal;Greece;3;10;{'TypeScript': 20735, 'Java': 36640, 'JavaScript': 13835, 'HTML': 12900, 'CSS': 5619}
+459334;eliotgr;Greece;0;0;{}
+461043;balaf;Athens - Greece;13;7;{'JavaScript': 314643, 'Haskell': 5539, 'CSS': 8018}
+470064;kokeroulis;Greece;8;16;{'Makefile': 502, 'JavaScript': 10199, 'Java': 254423, 'Go': 134594, 'VimL': 13279, 'Shell': 6524}
+470610;glampr;Athens - Greece;3;25;{'CoffeeScript': 3005, 'JavaScript': 1473648, 'CSS': 35261, 'Ruby': 178082, 'HTML': 15936, 'Shell': 108}
+472467;ipavlidakis;Athens;0;7;{'Ruby': 1850, 'Objective-C': 130597}
+472743;nikosd23;Athens;3;11;{'JavaScript': 5120, 'Java': 57232, 'Shell': 301}
+474919;foss-aueb;Athens - Greece;0;9;{'JavaScript': 143, 'Java': 33838, 'PHP': 5989359}
+475517;theofilis;Athens - Greece;23;107;{'TeX': 123237, 'JavaScript': 1537131, 'Java': 198729, 'CSS': 286385, 'ApacheConf': 356, 'Ruby': 475, 'Python': 190907, 'PHP': 78033, 'HTML': 11469, 'Shell': 1468}
+476119;markos;Greece;5;11;{'TeX': 889564, 'Objective-C': 650199, 'Groff': 2407570, 'M4': 99894, 'Awk': 68721, 'C': 99019282, "Cap'n Proto": 867, 'XSLT': 498, 'D': 7356, 'JavaScript': 95796, 'Shell': 1773323, 'Makefile': 465063, 'CSS': 24336, 'Python': 235770, 'Assembly': 11492296, 'Logos': 97776, 'Perl': 141582, 'Java': 616246, 'C++': 4321433, 'HTML': 1529675, 'Yacc': 7516}
+482757;cloneroach;Thessaloniki Greece;1;3;{'JavaScript': 288130, 'Java': 28415, 'CSS': 1127, 'Ruby': 857, 'ActionScript': 1542093, 'PHP': 1463, 'Shell': 41}
+483871;ThesSite-gr;Thessaloniki - Greece;0;0;{'Perl': 71, 'JavaScript': 64329, 'PHP': 1301499, 'Shell': 277}
+484163;PantelisGeorgiadis;Kastoria - Greece;0;2;{'Python': 3114}
+484186;javapapo;Athens - Greece;44;6;{'TeX': 48289, 'Java': 3324784, 'Scala': 4747994, 'Perl': 11875, 'HTML': 796, 'Shell': 4668}
+487219;pointergr;Greece;0;5;{'Prolog': 12763, 'JavaScript': 1912, 'Scheme': 113, 'C': 64754, 'CoffeeScript': 423, 'Ruby': 16242, 'Clojure': 34069, 'Shell': 12905, 'Makefile': 950, 'Erlang': 11384, 'CSS': 24128, 'Python': 490080, 'HTML': 4255, 'Haskell': 2018619, 'Perl': 3609, 'Emacs Lisp': 137, 'Scala': 8963, 'VimL': 5141}
+488669;powertac;Minneapolis - Rotterdam - Thessaloniki - Pittsburgh - Zagre;0;30;{'Groovy': 1028, 'Java': 86387}
+489451;smene;Greece;0;1;{'CoffeeScript': 1266, 'JavaScript': 571388, 'Python': 9362, 'CSS': 211337, 'Ruby': 96493, 'HTML': 66133}
+490535;Archimidis;Greece;13;15;{}
+491538;slavikos;Heraklion - Create - Greece;2;5;{'Perl': 15244}
+491812;tzampatzis;Greece;3;10;{'CSS': 6348, 'PHP': 1787801, 'HTML': 1183}
+494964;nikosprodro;Thessaloniki - Greece;5;8;{}
+495338;delmoras;thessaloniki;0;2;{}
+496777;pkaz;Athens - Greece;5;1;{}
+497103;kozer;Greece;0;7;{'VimL': 6547, 'CoffeeScript': 2976, 'Shell': 2943}
+498592;ppapadeas;Athens - Greece;91;58;{'JavaScript': 649022, 'Python': 1399808, 'Puppet': 6677, 'CSS': 244328, 'Shell': 3065}
+499393;wizgrav;Athens - Greece;12;35;{'JavaScript': 68184, 'C': 323448, 'HTML': 8868, 'C++': 81806, 'Shell': 2129, 'Objective-C': 1357, 'Python': 11453, 'Makefile': 1279, 'Lua': 1674}
+501585;ankostis;Greece - Italy;3;21;{}
+504333;jstefanis;Heraklion Greece;0;10;{'Ruby': 180437, 'CoffeeScript': 687, 'CSS': 3201, 'JavaScript': 34088}
+505321;eeVoskos;Athens;18;13;{'Java': 97219, 'Groovy': 1699}
+509248;thkouk;Athens - Greece;0;0;{}
+509474;giannoug;Athens - Greece;18;9;{'Arduino': 17525, 'C++': 2148, 'C': 65176, 'HTML': 3810, 'JavaScript': 6237}
+517037;dimp;Tubeland - Greece;0;2;{}
+518150;mocassinis;Lagonissi Greece;0;35;{'JavaScript': 120005, 'HTML': 4943, 'CSS': 27250, 'Smarty': 29, 'PHP': 154609, 'Perl': 2807, 'Python': 211}
+518201;Stavros;Thessaloniki;6;19;{'Protocol Buffer': 401, 'JavaScript': 147723, 'PHP': 2679706}
+518451;gadlol;Greece;16;16;{'JavaScript': 11525, 'Java': 3956, 'HTML': 5048, 'Makefile': 13096, 'CSS': 9054, 'Shell': 807, 'Python': 1158, 'Groovy': 58}
+520237;bserem;Greece;9;25;{'JavaScript': 20216, 'Arduino': 26852, 'Shell': 622, 'HTML': 5, 'CSS': 56484, 'PHP': 8526, 'VimL': 47051}
+520704;GiorgosK;Chios Greece;1;1;{}
+527516;chrysopoulos18;Thessaloniki- Greece;6;4;{'TypeScript': 61588, 'JavaScript': 7200, 'CSS': 5819, 'HTML': 15860, 'Java': 1369238}
+527550;atzorvas;Greece;28;31;{'JavaScript': 39394, 'CSS': 14318, 'Python': 415329, 'C': 20503, 'Java': 11003, 'Groff': 1804, 'HTML': 21826}
+527690;foss-academic-alliance;Athens- Greece;0;1;{}
+527744;vmasto;Thessaloniki- Greece;12;6;{}
+527851;Sudavar;Athens- Greece;2;4;{'PHP': 1010260, 'Ruby': 34177, 'JavaScript': 16930}
+528283;guano18;Thessaloniki- Greece;0;2;{}
+530565;cknns;PATRA- GREECE;4;0;{}
+531705;greenman18523;Heraklion- Greece;2;5;{}
+532167;tikitu;Thessaloniki;5;13;{'HTML': 206626, 'CSS': 18556, 'Python': 70757}
+532528;sokratisg;Athens- Greece;4;1;{}
+534400;droutsis;Athens- Greece;0;0;{}
+534567;Dotsoft;Thessaloniki- Greece;0;4;{'CSS': 983, 'ApacheConf': 24551, 'JavaScript': 11069, 'PHP': 84086, 'CoffeeScript': 5498, 'HTML': 11379}
+535853;vvatikiotis;Athens- Greece;17;25;{'CSS': 20763, 'TypeScript': 461, 'Ruby': 395, 'JavaScript': 41096, 'PHP': 706, 'Objective-C': 8511, 'Python': 561, 'Emacs Lisp': 101685, 'ApacheConf': 142, 'HTML': 5647, 'CoffeeScript': 664, 'Julia': 509}
+536859;pauliusuza;Athens- Greece;14;24;{'JavaScript': 16483, 'ActionScript': 4001, 'CSS': 284}
+537835;vkamayiannis;Thessaloniki- Greece;3;13;{'HTML': 77317, 'CSS': 60048, 'JavaScript': 18760, 'PHP': 681823, 'Ruby': 250846, 'Pascal': 4754, 'CoffeeScript': 3084}
+538121;VoxelPerfect;Athens- Greece;7;3;{'JavaScript': 359266, 'Shell': 3399, 'Java': 21679}
+538458;HumbleProgrammer;Greece;0;0;{}
+538829;nkua;Athens- Greece;0;2;{}
+540404;Kounavi;Herakleion- Greece;1;5;{'Puppet': 4911, 'Ruby': 550, 'PHP': 1230042}
+540744;AlexGidarakos;Thessaloniki- Greece;1;9;{'Shell': 1260, 'CSS': 14, 'VimL': 1878, 'JavaScript': 60667}
+541486;gioarvan;Athens-Greece;0;2;{'C++': 70510, 'JavaScript': 93269, 'C': 25950, 'HTML': 23220, 'CSS': 13427, 'Haskell': 4731}
+544529;chorvus;Fried Bacon- Thessaloniki- Greece;6;7;{}
+544572;dionyziz;Athens;405;114;{'XSLT': 202157, 'Nginx': 1168, 'Makefile': 10144, 'Objective-C': 32574, 'Visual Basic': 332057, 'PHP': 13667358, 'CSS': 597677, 'C++': 324688, 'VimL': 410801, 'HTML': 890366, 'C': 350042, 'Ruby': 148352, 'ActionScript': 391870, 'Matlab': 497488, 'Python': 715549, 'Mathematica': 845, 'Perl': 6753, 'CoffeeScript': 24266, 'TeX': 190701, 'ApacheConf': 14969, 'JavaScript': 5490521, 'Haskell': 6329, 'Assembly': 8470, 'Shell': 14225}
+546735;abavisg;Athens- Greece;5;8;{'Objective-C': 56357, 'Swift': 97135, 'Ruby': 11615, 'Shell': 8714}
+547024;yiannist;Athens- Greece;52;12;{'C++': 34047254, 'VimL': 13149, 'HTML': 2289, 'OCaml': 393815, 'C': 2226471, 'Emacs Lisp': 11686, 'TeX': 1452, 'Erlang': 74229, 'Assembly': 5501032, 'Makefile': 533, 'Perl': 27878, 'Objective-C': 834691, 'JavaScript': 12072, 'Haskell': 2187474, 'Python': 5891210, 'CSS': 23112, 'Shell': 228457}
+548423;cstavr;Athens- Greece;16;16;{'VimL': 317506, 'Makefile': 5180, 'Ruby': 59899, 'C': 27994, 'Erlang': 471289, 'Perl': 64398, 'Haskell': 14148, 'Python': 49531, 'Shell': 13999}
+550020;favoritas37;Athens- Greece;3;5;{}
+551595;bekos;Greece;49;8;{'JavaScript': 2329, 'PHP': 39634}
+553135;jsimeonidis;Athens/Greece;0;0;{}
+553444;sirodoht;Thessaloniki- Greece;63;59;{'VimL': 12654, 'HTML': 765982, 'Ruby': 8031, 'C': 10732, 'CoffeeScript': 3623, 'Java': 30480, 'JavaScript': 3824400, 'Python': 7355, 'CSS': 951235, 'Shell': 3411}
+554314;sophron;Athens- Greece;309;2;{'HTML': 33998, 'Python': 116461, 'CSS': 3533}
+555504;salagator;Athens- Greece;1;4;{'Swift': 4963, 'Java': 278412}
+556176;billyraylover;Greece;1;0;{}
+558288;sawidis;Patras- Greece;12;2;{}
+559038;cedel;Athens- Greece;5;0;{}
+564505;afzaal77;greece;0;0;{}
+569114;melios;Greece;0;0;{}
+574274;teliaz;Athens- Greece;0;2;{}
+576678;dkart;Athens- Greece;4;3;{}
+577838;karvanit;Greece;1;2;{'C++': 573, 'Prolog': 156}
+579741;theseas;Athens-  Greece;0;3;{'TeX': 51412, 'CSS': 298, 'PHP': 4531, 'Makefile': 248, 'JavaScript': 465716, 'Python': 4973}
+584213;olrandir;Athens- Greece;2;4;{'Shell': 4065, 'JavaScript': 76154, 'Python': 54127, 'CSS': 55990}
+584352;glogiotatidis;Athens- Greece;92;200;{'Puppet': 26724, 'Go': 365, 'Ruby': 3156, 'PHP': 93138, 'Nginx': 2383, 'JavaScript': 689899, 'CSS': 70529, 'Makefile': 6876, 'Shell': 93234, 'Python': 4147854, 'ApacheConf': 155, 'HTML': 158045}
+587817;ekarak;Athens- Greece;25;30;{'Ruby': 339780, 'C++': 43632, 'HTML': 8880, 'JavaScript': 88751, 'C': 2848, 'Lua': 75075}
+588688;aristath;Greece;186;33;{'Ruby': 1384, 'PHP': 3271628, 'CSS': 1034245, 'Shell': 15184, 'HTML': 54648, 'JavaScript': 1301652}
+589750;sanastasiadis;Athens;1;12;{'HTML': 1609, 'Java': 63387}
+590575;vasilakisfil;Stockholm- Sweden & Athens- Greece;34;46;{'JavaScript': 541824, 'PHP': 218467, 'Python': 159034, 'HTML': 63241, 'C': 43607, 'Groovy': 1185, 'Ruby': 433302, 'Handlebars': 11806, 'CSS': 387648, 'CoffeeScript': 4498, 'Shell': 34896, 'Matlab': 10736, 'VimL': 5422, 'Java': 311818}
+591686;mavroprovato;Athens Greece;0;10;{'PHP': 98617, 'Python': 18471, 'C': 25937, 'JavaScript': 52278, 'Ruby': 50, 'CSS': 51917, 'C++': 140611, 'QMake': 1685, 'HTML': 10156, 'ApacheConf': 3297, 'Java': 122664, 'Makefile': 774}
+592568;teras;Greece;2;21;{'Batchfile': 1509, 'PHP': 38412, 'Python': 9141, 'Groff': 870303, 'HTML': 59132, 'Verilog': 730, 'JavaScript': 1606, 'Assembly': 994306, 'Java': 2428777, 'C': 22629556, 'CSS': 240, 'Shell': 670458, 'C++': 1389116, 'NSIS': 10147, 'Objective-C': 20874, 'Makefile': 380542, 'Perl': 131429}
+594075;dgiakoum;Athens- Greece;1;1;{'Arduino': 6204}
+598065;gschizas;Greece;5;54;{'JavaScript': 2261794, 'Python': 455937, 'ASP': 1086, 'HTML': 1849505, 'Perl': 42798, 'Visual Basic': 224320, 'C': 227084, 'Assembly': 51595, 'Java': 6093, 'CSS': 138249, 'Shell': 9866, 'C++': 1725, 'Makefile': 3951, 'C#': 6556, 'XSLT': 5537}
+598934;vracas;Greece;2;2;{'CSS': 9912}
+601001;kootoopas;Thessaloniki- Greece;11;12;{'HTML': 5163, 'JavaScript': 11551, 'Python': 1343, 'Shell': 6551, 'PHP': 3585}
+601207;padeler;Crete;12;5;{'Python': 114583, 'C++': 755215, 'VimL': 75261, 'Jupyter Notebook': 4790, 'C': 39470, 'Java': 9387, 'Makefile': 409013}
+601483;novykh;Athens- Greece;1;8;{'Ruby': 22753, 'HTML': 7321, 'CSS': 10383, 'JavaScript': 661}
