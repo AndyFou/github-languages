@@ -1,7 +1,6 @@
-# Github Network Analysis on Greek Users
+# Github Languages Network Analysis
 
 ![Language Graph](graph.png)
-Format: ![Alt Text](url)
 
 ## Description
 This is a university project about the analysis of the languages used by the github community and some sub-communities discriminated by location.
@@ -27,7 +26,7 @@ Collection of locations (as giver by the user), languages (of user's public repo
 
 * Get top countries for developers by a source (eg http://goo.gl/vBF6BE or https://goo.gl/bwxcoZ)
 
-**Descriptive Statistics**
+**Descriptive Statistics**:
 users per location (top pie / top barchart), langs and bytes  
 
 ### Notes
