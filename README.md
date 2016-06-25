@@ -1,7 +1,6 @@
 # Github Network Analysis on Greek Users
 
 ![Language Graph](graph.png)
-Format: ![Alt Text](url)
 
 ## Description
 This is a university project about the analysis of the languages used by the github community and some sub-communities discriminated by location.
