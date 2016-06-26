@@ -1,0 +1,15 @@
+* modularity - all data - force atlas 2
+* modularity - all data - openord
+
+* modularity - filter bytes - force atlas 2
+* modularity - filter bytes - openord
+
+* modularity - filter edge weights - force atlas 2
+* modularity - filter edge weights - openord
+
+* modularity - filter edge weights - force atlas 2
+* modularity - filter edge weights - openord
+
+nodes: languages
+edges: pairs of languages
+edge weights: users per pair
