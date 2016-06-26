@@ -33,5 +33,10 @@ users per location (top pie / top barchart), langs and bytes
 * το cluster του web το βγαζει πολυ καλα σε σχεση με αλλα (λογικο απο τη φυση των δεδομενων, το github παιζει πολυ με web devs)
 * results-loc: some places have too many users (SF) and most have too little (powerlaw)
 
+### Interesting Sources
+* http://githut.info/
+* https://www3.nd.edu/~dial/publications/raeder2011market.pdf
+* 
+
 #### Dependencies
 * [PyGithub](https://github.com/PyGithub/PyGithub) (pip install PiGithub) 

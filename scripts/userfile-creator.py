@@ -34,6 +34,7 @@ def read_datafile():
 
 			data.append(user)
 
+	print("Data read!")
 	return data
 
 def get_items():
@@ -61,7 +62,8 @@ def get_items():
 							edges[(source_user[0],target_user[0])] += 1
 						else:
 							edges[(source_user[0],target_user[0])] = 1
-
+		
+	print("Items created!")
 	return (nodes,edges)
 
 def create_gexf(nodes,edges):
